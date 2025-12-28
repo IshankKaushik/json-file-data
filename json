@@ -1,22 +1,62 @@
 {
   "BIG BASH LEAGUE": [
     {
+      "channel_name": "Live TV Channel 24/7",
+      "url": "https://tv4go.pages.dev/?id=willowsports",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Big_Bash_League_%28logo%29.png/250px-Big_Bash_League_%28logo%29.png"
+    },
+    {
       "channel_name": "WILLOW SPORTS",
-      "url": "https://ishankkaushik.com/backend.php?src=willowsports",
+      "url": "https://tv4go.pages.dev/?id=willowsports",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktgwHooyyhkUn6U4CF7iS2uk5nJquJnOC71okjMM0FpHvnxOEqwOxJDY&s=10"
     },
     {
       "channel_name": "WILLOW IOS",
-      "url": "https://ishankkaushik.com/backend.php?src=willowsports2",
+      "url": "https://tv4go.pages.dev/?id=willowsports2",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktgwHooyyhkUn6U4CF7iS2uk5nJquJnOC71okjMM0FpHvnxOEqwOxJDY&s=10"
     }
   ],
 
   "OTHER TV CHANNELS": [
     {
+      "channel_name": "24/7 Live",
+      "url": "https://tv4go.pages.dev/?id=sts1",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Big_Bash_League_%28logo%29.png/250px-Big_Bash_League_%28logo%29.png"
+    },
+    {
+      "channel_name": "STAR SPORTS 1",
+      "url": "https://tv4go.pages.dev/?id=sts1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__-2Log0T499nv2ojeHOjfkSsMe3D3aXFMzUSEFOokw&s=10"
+    },
+    {
+      "channel_name": "FOX CRICKET 501",
+      "url": "https://tv4go.pages.dev/?id=fox1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWt3p5nrvjxdjOgTuvR64wU4OLlqfpYGAyA&usqp=CAU"
+    },
+    {
       "channel_name": "WILLOW CRICKET",
-      "url": "https://ishankkaushik.com/backend.php?src=willowtv",
+      "url": "https://tv4go.pages.dev/?id=willowtv",
       "image": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/38-by-xfireflix.png"
+    },
+    {
+      "channel_name": "WILLOW CRICKET",
+      "url": "https://tv4go.pages.dev/?id=willowtv1",
+      "image": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/38-by-xfireflix.png"
+    },
+    {
+      "channel_name": "WILLOW SPORTS",
+      "url": "https://tv4go.pages.dev/?id=willowsports",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktgwHooyyhkUn6U4CF7iS2uk5nJquJnOC71okjMM0FpHvnxOEqwOxJDY&s=10"
+    },
+    {
+      "channel_name": "WILLOW IOS",
+      "url": "https://tv4go.pages.dev/?id=willowsports2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktgwHooyyhkUn6U4CF7iS2uk5nJquJnOC71okjMM0FpHvnxOEqwOxJDY&s=10"
+    },
+    {
+      "channel_name": "TNT SPORTS 1",
+      "url": "https://tv4go.pages.dev/?id=tnt1",
+      "image": "https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png"
     }
   ]
 }
